@@ -1,32 +1,32 @@
-# pornolab.net API
+# API de pornolab.net
 
-Монорепа в которой есть технические заметки по работе форума pornolab.net и враппер его браузерного апи.
+Un monorep que contiene notas técnicas sobre el trabajo del foro pornolab.net y un contenedor para la API de su navegador.
 
-**Если вы лицо не достигшее возраста совершеннолетия в вашей стране, покиньте эту страницу** — надеюсь эта надпись убережет меня от проблем
+**Si eres menor de edad en tu país, por favor abandona esta página** - Espero que este mensaje me salve de problemas
 
-**Любая информация, полученная с помощью этого программного обеспечения, лицензируется авторским правом; прошу правообладателей обращаться к указанному выше сайту для решения вопросов, связанных с удалением контента**
+**Cualquier información obtenida utilizando este software tiene licencia de derechos de autor; Pido a los titulares de derechos de autor que se comuniquen con el sitio anterior para resolver problemas relacionados con la eliminación de contenido**
 
-<details>
-  <summary>Дисклеймер</summary>
+<detalles>
+   <summary>Descargo de responsabilidad</summary>
   
-  Не шеймите меня за этот проект, однажды я уже [сделал браузер для порно](https://github.com/VityaSchel/mypron), но там были только 👩👩👩 да и я уже купил аккаунт на порнолаб на 500 гб, все исключительно для развлекательных и познавательных целей, хотя какие тут еще цели могут быть?
+   No me avergüences por este proyecto, una vez ya [hice un navegador para porno](https://github.com/VityaSchel/mypron), pero solo había 👩👩👩 y ya compré una cuenta para pornlab por 500 GB, todo eso es únicamente con fines educativos y de entretenimiento, aunque ¿qué otros propósitos podrían haber?
 
-  У меня есть и много других интересных проектов! Посмотрите на них в моем [профиле](https://github.com/VityaSchel)
-</details>
+   ¡Tengo muchos otros proyectos interesantes! Míralos en mi [perfil](https://github.com/VityaSchel)
+</detalles>
 
-## Реверс-инженеринг форума
+## Ingeniería inversa del foro
 
-- [1. Авторизация](./docs/auth.md)
-- [2. Запросы страниц и скрейпинг](./docs/scraping.md)
-- [3. Страница топика, ссылка на скачивание](./docs/topic.md)
-- [Поиск](./docs/search.md)
+- [1. Autorización](./docs/auth.md)
+- [2. Solicitudes de página y scraping](./docs/scraping.md)
+- [3. Página del tema, enlace de descarga](./docs/topic.md)
+- [Buscar](./docs/search.md)
 
-## Враппер
+## Envoltorio
 
-См. документацию в [./api-wrapper/README.md](./api-wrapper/README.md)
+Consulte la documentación en [./api-wrapper/README.md](./api-wrapper/README.md)
 
-## Лицензия
+## Licencia
 
-[MIT](./LICENSE.md)
+[MIT](./LICENCIA.md)
 
-Если вы используете этот враппер или информацию отсюда в коммерческих целях, буду благодарен за донат 🥰
+Si utilizas este envoltorio o información de aquí con fines comerciales, te agradecería tu donación 🥰
