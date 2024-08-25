@@ -1,32 +1,31 @@
-# API de pornolab.net
+#pornolab.net API
 
-Un monorep que contiene notas técnicas sobre el trabajo del foro pornolab.net y un contenedor para la API de su navegador.
+A monorep containing technical notes on the work of the pornolab.net forum and a wrapper for its browser API.
 
-**Si eres menor de edad en tu país, por favor abandona esta página** - Espero que este mensaje me salve de problemas
+**If you are a minor in your country, please leave this page** - I hope this message saves me from trouble
 
-**Cualquier información obtenida utilizando este software tiene licencia de derechos de autor; Pido a los titulares de derechos de autor que se comuniquen con el sitio anterior para resolver problemas relacionados con la eliminación de contenido**
+**Any information obtained using this software is licensed under copyright; I ask copyright holders to contact the above site to resolve issues regarding content removal**
 
-<detalles>
-   <summary>Descargo de responsabilidad</summary>
-  
-   No me avergüences por este proyecto, una vez ya [hice un navegador para porno](https://github.com/VityaSchel/mypron), pero solo había 👩👩👩 y ya compré una cuenta para pornlab por 500 GB, todo eso es únicamente con fines educativos y de entretenimiento, aunque ¿qué otros propósitos podrían haber?
+<details>
+<summary>Disclaimer</summary>
 
-   ¡Tengo muchos otros proyectos interesantes! Míralos en mi [perfil](https://github.com/VityaSchel)
-</detalles>
+Please don't shame me for this project, I once already [made a porn browser](https://github.com/VityaSchel/mypron), but there were only 👩👩👩 and I already bought an account for pornlab for 500 GB, all of that is solely for educational and entertainment purposes, although what other purposes could there be?
 
-## Ingeniería inversa del foro
+I have many other interesting projects! Check them out on my [profile](https://github.com/VityaSchel)
 
-- [1. Autorización](./docs/auth.md)
-- [2. Solicitudes de página y scraping](./docs/scraping.md)
-- [3. Página del tema, enlace de descarga](./docs/topic.md)
-- [Buscar](./docs/search.md)
+## Forum Reverse Engineering
 
-## Envoltorio
+- [1. Authorization](./docs/auth.md)
+- [2. Page Requests and Scraping](./docs/scraping.md)
+- [3. Topic Page, Download Link](./docs/topic.md)
+- [Search](./docs/search.md)
 
-Consulte la documentación en [./api-wrapper/README.md](./api-wrapper/README.md)
+## Wrapper
 
-## Licencia
+See documentation at [./api-wrapper/README.md](./api-wrapper/README.md)
 
-[MIT](./LICENCIA.md)
+## License
 
-Si utilizas este envoltorio o información de aquí con fines comerciales, te agradecería tu donación 🥰
+[MIT](./LICENSE.md)
+
+If you use this wrapper or information here for commercial purposes, I would appreciate your donation 🥰
