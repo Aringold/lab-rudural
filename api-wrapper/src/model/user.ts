@@ -11,3 +11,4 @@ export type GuestUser = {
 export type User = UserAccount | GuestUser
 
 export type UserMin = User//Pick<User, 'id' | 'name' | 'type'>
+
